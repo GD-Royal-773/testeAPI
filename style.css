@@ -1,0 +1,29 @@
+body {
+    width: 1024px;
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(41, 41, 41));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#logo{
+font-size:160px;
+position:relative;
+left:420px;
+color: #000;
+-webkit-text-stroke:1px #FFF;
+text-stroke:1px #FFF;
+text-shadow:rgb(255,255,255) -0px 10px 20px;
+text-stroke:1px rgb(194, 48, 48);
+}
+#escrevedor{
+size:50px;
+}
+#aidento{
+position: relative;
+left: 50px;
+color:white;
+}
+button{
+position: relative;
+top: 10px;
+right: 435px;
+}
